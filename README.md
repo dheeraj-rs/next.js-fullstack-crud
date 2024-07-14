@@ -1,6 +1,5 @@
 Certainly. Here's the full README.md incorporating all the information:
 
-````markdown
 # Next.js Fullstack CRUD
 
 A full-stack CRUD application built with Next.js, utilizing MongoDB for the backend. This project demonstrates efficient data management and persistent storage capabilities.
@@ -29,10 +28,10 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Clone the repo:
+
    ```sh
-   git clone https://github.com/dheeraj-rs/next.js-fullstack-crud.git
+   git clone https://github.com/your-username/next-js-fullstack-crud.git
    ```
-````
 
 2. Navigate to the project directory:
 
